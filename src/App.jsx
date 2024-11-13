@@ -1,15 +1,12 @@
 import "./style.css";
-import Header from "./components/header/index.js";
-import Hero from "./components/hero/hero.js";
-import Skills from "./components/skills/skills.js";
+import Header from "./components/header/header.jsx";
+import Hero from "./components/hero/hero.jsx";
 
 function App() {
   return (
     <div>
       <Header />
       <Hero />
-      <Hero />
-      <Skills />
     </div>
   );
 }
