@@ -33,7 +33,7 @@ function About() {
         <div className="exp-area">
           <p className="exp">{about.kenalan}</p>
         </div>
-        <a href="#" className="btn">
+        <a href="#portfolio" className="btn">
           {about.view}
         </a>
       </div>

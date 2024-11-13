@@ -28,7 +28,7 @@ function Header() {
           <a href="#about">{header.about}</a>
         </li>
         <li>
-          <a href="#portfolio">{header.skill}</a>
+          <a href="#services">{header.skill}</a>
         </li>
         <li>
           <a href="#portfolio">{header.project}</a>
