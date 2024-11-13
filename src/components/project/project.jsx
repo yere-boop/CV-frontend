@@ -24,7 +24,6 @@ function Project() {
       </div>
       <div className="Portfolio-content" data-aos="zoom-in-up">
         <div className="row">
-          <img src="./img/port-1.jpg" alt />
           <div className="main-row">
             <div className="row-text">
               <h5>{project.web}</h5>
@@ -34,10 +33,9 @@ function Project() {
             </div>
           </div>
           <h4>{project.desc}</h4>
-          <img src="assets/img/project_1.png" alt />
+          <img src={project.foto1} alt />
         </div>
         <div className="row">
-          <img src="./img/port-2.jpg" alt />
           <div className="main-row">
             <div className="row-text">
               <h5>{project.uiux}</h5>
@@ -47,7 +45,7 @@ function Project() {
             </div>
           </div>
           <h4>{project.desc2}</h4>
-          <img src="assets/img/project_2.png" alt />
+          <img src={project.foto2} alt />
         </div>
       </div>
     </section>

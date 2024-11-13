@@ -24,19 +24,19 @@ function Skill() {
       </div>
       <div className="services-content" data-aos="zoom-in-up">
         <div className="box">
-          <img src="assets/img/logo_html.png" alt="#" />
+          <img src={skill.fotohtml} alt="#" />
           <p>{skill.html}</p>
         </div>
         <div className="box">
-          <img src="assets/img/logo_css.png" alt="#" />
+          <img src={skill.fotocss} alt="#" />
           <p>{skill.css}</p>
         </div>
         <div className="box">
-          <img src="assets/img/logo_js.png" alt="#" />
+          <img src={skill.fotojs} alt="#" />
           <p>{skill.js}</p>
         </div>
         <div className="box">
-          <img src="assets/img/logo_figma.png" alt="#" />
+          <img src={skill.fotofigma} alt="#" />
           <p>{skill.figma}</p>
         </div>
       </div>

@@ -17,7 +17,7 @@ function About() {
   return (
     <section className="about" id="about">
       <div className="about-img" data-aos="zoom-in-down">
-        <img src="assets/img/adit3.jpg" />
+        <img src={about.img} />
       </div>
       <div className="about-text" data-aos="zoom-in-up">
         <h2>
