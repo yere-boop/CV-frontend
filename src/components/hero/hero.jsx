@@ -19,7 +19,10 @@ function Hero() {
     <section className="hero" id="home">
       <div className="main-content" data-aos="none">
         <h4>{hero.hello}</h4>
-        <h1>{hero.nama}</h1>
+        <h1>
+          {hero.iam}
+          <span>&nbsp;{hero.nama}</span>
+        </h1>
         <p>{hero.desc}</p>
         <div className="social">
           <a href="">
