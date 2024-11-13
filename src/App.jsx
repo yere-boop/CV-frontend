@@ -4,6 +4,7 @@ import Hero from "./components/hero/hero.jsx";
 import About from "./components/about/about.jsx";
 import Skill from "./components/skill/skill.jsx";
 import Project from "./components/project/project.jsx";
+import Footer from "./components/footer/footer.jsx";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <About />
       <Skill />
       <Project />
+      <Footer />
     </div>
   );
 }
