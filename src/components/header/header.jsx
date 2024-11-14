@@ -17,7 +17,8 @@ function Header() {
   return (
     <header>
       <a href="#" className="logo">
-        Adithia<span>Christian</span>
+        {header.adit}
+        <span>{header.chris}</span>
       </a>
       <div className="bx bx-menu" id="menu-icon" />
       <ul className="navlist">
