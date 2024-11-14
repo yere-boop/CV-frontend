@@ -18,7 +18,7 @@ function Project() {
     <section className="portfolio" id="portfolio">
       <div className="center-text" data-aos="fade-down">
         <h2>
-          {project.my}
+          {project.my}&nbsp;
           <span>{project.projek}</span>
         </h2>
       </div>

@@ -18,7 +18,7 @@ function Skill() {
     <section className="services" id="services">
       <div className="center-text" data-aos="fade-down">
         <h2>
-          {skill.my}
+          {skill.my}&nbsp;
           <span>{skill.skil}</span>
         </h2>
       </div>
