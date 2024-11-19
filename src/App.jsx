@@ -3,7 +3,6 @@ import Header from "./components/header/header.jsx";
 import Hero from "./components/hero/hero.jsx";
 import About from "./components/about/about.jsx";
 import Skill from "./components/skill/skill.jsx";
-import Project from "./components/project/project.jsx";
 import Footer from "./components/footer/footer.jsx";
 import { useState, useEffect } from "react";
 import { ColorRing } from "react-loader-spinner";
@@ -29,7 +28,6 @@ const App = () => {
         <Hero />
         <About />
         <Skill />
-        <Project />
         <Footer />
       </div>
     </>

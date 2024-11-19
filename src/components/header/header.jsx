@@ -16,9 +16,6 @@ function Header() {
 
   return (
     <header>
-      <a href="#" className="logo">
-        <span>{header.chris}</span>
-      </a>
       <div className="bx bx-menu" id="menu-icon" />
       <ul className="navlist">
         <li>
@@ -29,9 +26,6 @@ function Header() {
         </li>
         <li>
           <a href="#services">{header.skill}</a>
-        </li>
-        <li>
-          <a href="#portfolio">{header.project}</a>
         </li>
       </ul>
       <div className="top-btnn">

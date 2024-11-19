@@ -36,9 +36,6 @@ function Hero() {
           </a>
         </div>
         <div className="main-btn">
-          <a href="/cv_adith.pdf" className="btn btn2">
-            {hero.cv}
-          </a>
         </div>
       </div>
     </section>
