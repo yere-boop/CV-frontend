@@ -25,13 +25,13 @@ function Hero() {
         </h1>
         <p>{hero.desc}</p>
         <div className="social">
-          <a href="https://www.facebook.com/profile.php?id=100080963656120&mibextid=kFxxJD">
+          <a href="https://www.facebook.com/yeremia.mawuntu.9?mibextid=ZbWKwL">
             <i className="ri-facebook-fill" />
           </a>
-          <a href="https://www.instagram.com/adithiach/">
+          <a href="https://www.instagram.com/yeremiamilano">
             <i className="ri-instagram-fill" />
           </a>
-          <a href="https://www.linkedin.com/learning/">
+          <a href="">
             <i className="ri-linkedin-fill" />
           </a>
         </div>

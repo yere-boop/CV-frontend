@@ -30,7 +30,7 @@ function Header() {
       </ul>
       <div className="top-btnn">
         <a
-          href="https://wa.me/6281240001025?text=Halo,%20saya%20tertarik%20untuk%20mengenal%20lebih%20jauh!"
+          href="https://wa.me/6283137435063"
           target="_blank"
           className="h-btn"
           rel="noreferrer"
